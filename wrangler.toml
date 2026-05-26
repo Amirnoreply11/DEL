@@ -5,7 +5,7 @@ compatibility_date = "2024-01-01"
 workers_dev = true
 
 [vars]
-# PROXYIP = "211.230.110.231:50008"
+PROXYIP = "45.80.209.25:81"
 UUID = "a983a7ed-03ec-4f9d-8db3-a9e0c362c4af"
 # TROJAN_PASSWORD = "your-trojan-password"  # Optional: If not set, UUID will be used as password
 # SOCKS5 = "127.0.0.1:1080"
